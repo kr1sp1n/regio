@@ -1,0 +1,24 @@
+{
+  "name": "regio",
+  "version": "0.0.0",
+  "description": "de-central local currency system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kr1sp1n/regio.git"
+  },
+  "keywords": [
+    "currency",
+    "community",
+    "local"
+  ],
+  "author": "kr1sp1n",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kr1sp1n/regio/issues"
+  },
+  "homepage": "https://github.com/kr1sp1n/regio#readme"
+}
